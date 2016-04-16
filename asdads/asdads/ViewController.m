@@ -1,6 +1,6 @@
 //
 //  ViewController.m
-//  NeteaseNews
+//  asdads
 //
 //  Created by yws on 16/4/15.
 //  Copyright © 2016年 yws. All rights reserved.
@@ -16,7 +16,8 @@
 
 - (void)viewDidLoad {
     [super viewDidLoad];
-    // Do any additional setup after loading the view, typically from a nib.     
+   dispatch_get_specific(<#const void *key#>)
+    
 }
 
 - (void)didReceiveMemoryWarning {
